@@ -1,2 +1,2 @@
 # peekaboo-photo-sharing
-Event focused photo and image sharing app. Share photos with your friends. 
+Event focused photo and image sharing app. Share photos with your friends and family. 
